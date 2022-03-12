@@ -18,9 +18,9 @@ int main()
     b=a%2;
     if(b==0)
 
-        cout << "该数是偶数" << endl;
+        cout << "The number is even" << endl;
      else
-        cout << "该数是奇数"  << endl;
+        cout << "The number is odd"  << endl;
 
 
 	return 0;
