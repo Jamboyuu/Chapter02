@@ -13,13 +13,13 @@ using namespace std;
 int main()
 {
     int x,y,sum,difference,product ,quotient;
-    cout<< "请输入两个数";
+    cout<< "Enter two integers to calculate";
     cin>>x>>y;
     sum=x+y;
     difference=x-y;
     product=x*y;
     quotient=x/y;
 
-    cout << "和=" <<sum<<" 差="<<difference<<" 积="<<product<<" 商="<<quotient << endl;
+    cout << "sum=" <<sum<<" difference="<<difference<<" product="<<product<<" quotient="<<quotient << endl;
     return 0;
 }
