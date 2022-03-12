@@ -16,8 +16,8 @@ int main()
 
 
  char a,b;
-cin>>a;                     //输入字符
-cout<<(int)a<<endl;             //取得ascii码值
+cin>>a;                     
+cout<<(int)a<<endl;             
 
 
      return 0;
